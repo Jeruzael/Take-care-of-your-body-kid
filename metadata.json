@@ -1,0 +1,6 @@
+{
+  "name": "Little Care Club",
+  "description": "An interactive educational mobile game for young children to practice happy daily routines with Sunny.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
